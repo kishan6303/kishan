@@ -1,1 +1,1 @@
-select * from table;
+select * from table where  a>10;
